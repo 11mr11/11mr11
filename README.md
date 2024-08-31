@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning MySQL, HTML, ethical hacking, and Linux tools like Nmap, Hydra, theHarvester, Zphisher, and more.
 - 💞️ I’m looking to collaborate on open-source security projects and web development tools.
 - 📫 How to reach me: https://www.linkedin.com/in/amaan-shaikh-44636627a/
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving puzzles and often apply that mindset to breaking down complex cybersecurity challenges.
 
 ---
